@@ -9,5 +9,6 @@ guessed lessons or errors) in console.
 2. Open game's folder through command console.
 3. Enter:
 ```
-ruby hangman.rb
+bundle install
+bundle exec ruby main.rb
 ```
