@@ -22,8 +22,5 @@ By default game allows 7 errors to guess word. To increase/decrease errors count
 class Game
   TOTAL_ERRORS_ALLOWED = 7
 ```
-You can add your own words into the game by adding them into this file. Game gives you 7 
-tries to guess the correct word by entering lessons one by one and shows a current status (hangman's picture, 
-guessed lessons or errors) in console.
 
-
+New words can be added by importing them into `data/words.txt`. 
