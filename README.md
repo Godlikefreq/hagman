@@ -7,7 +7,7 @@
 1. Required Ruby (v. 3.1.2) installed on your PC.
 2. Clone application to local PC:
 ```
-git@github.com:Godlikefreq/hangman.git
+git clone git@github.com:Godlikefreq/hangman.git
 ```
 4. Open app's folder through command console.
 5. Run
